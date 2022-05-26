@@ -1,4 +1,4 @@
-package part1;
+package part1_creating_and_destroying_objects;
 
 public class Example3 {
 
